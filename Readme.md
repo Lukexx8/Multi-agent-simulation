@@ -3,7 +3,7 @@
 Symulacja przedstawia rozprzestrzeniania się epidemii choroby wśród społeczeństwa reprezentowanego siecią społeczną małego świata. Każdy wierzchołek reprezentuje odrębną osobę (agenta) a wagi połączeń pomiędzy wierzchołkami reprezentują częstość kontaktu z daną osobą (prawdopodobieństwo kontaktu w jednym kroku iteracji). Symulacja ma na celu analizę liczby umieralności wśród społeczeństwa oraz czas trwania epidemii w zależności od parametrów:
 * Liczba początkowa ludności (agentów)
 * Stopień połączeń lokalny w sieci (parametr k w funkcji tworzącej graf małego swiata)
-* Procent połączeń dalekich (parametr p The probability of rewiring each edge)
+* Procent połączeń dalekich (parametr p prawdopodobieństwo przepięcia każdego z węzłów)
 * Procent początkowo zarażonych agentów
 * Prawdopodobieństwo kontaktu pomiędzy agentami w jednym kroku iteracji
 * Początkowy poziom odporność (na zarażenie i śmierć)
